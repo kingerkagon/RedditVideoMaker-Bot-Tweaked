@@ -1,5 +1,17 @@
 # Reddit Video Maker Bot 🎥
 
+Branche du projet de Lewis Menelaws : 
+
+Ce projet à permis la naissance de la chaine youtube 
+
+Patch : 
+-  L'utilisateur peut modifier le thread reddit à scrape 
+-  Le bot évite les thread NSFW qui seront systématiquement bloqués par Youtube short
+
+Amélioration future : 
+-  Le contenu généré à été flagué par l'algorithme de Tik tok qui à banni le compte. Expérimenter les limites de l'algorithme. 
+Rendre le contenu "Tik tok approuved". 
+
 https://user-images.githubusercontent.com/6053155/170525726-2db23ae0-97b8-4bd1-8c95-00da60ce099f.mp4
 
 All done WITHOUT video editing or asset compiling. Just pure ✨programming magic✨.
@@ -49,34 +61,3 @@ These videos on TikTok, YouTube and Instagram get MILLIONS of views across all p
 5. Run `python3 main.py` (unless you chose automatic install, then the installer will automatically run main.py)
 7. Enjoy 😎
 
-
-If you want to see more detailed guide, please refer to the official [documentation](https://luka-hietala.gitbook.io/documentation-for-the-reddit-bot/).
-\*The Documentation is still being developed and worked on, please be patient as we change / add new knowledge!
-
-## Contributing & Ways to improve 📈
-
-In its current state, this bot does exactly what it needs to do. However, lots of improvements can be made.
-
-I have tried to simplify the code so anyone can read it and start contributing at any skill level. Don't be shy :) contribute!
-
-- [x] Allowing users to choose a reddit thread instead of being randomized.
-- [ ] Allowing users to choose a background that is picked instead of the Minecraft one.
-- [x] Allowing users to choose between any subreddit.
-- [ ] Allowing users to change voice.
-- [ ] Creating better documentation and adding a command line interface.
-
-Please read our [contributing guidelines](CONTRIBUTING.md) for more detailed information.
-
-## Developers and maintainers.
-
-Elebumm (Lewis#6305) - https://github.com/elebumm (Founder)
-
-Jason (JasonLovesDoggo#1904) - https://github.com/JasonLovesDoggo 
-
-CallumIO - https://github.com/CallumIO
-
-HarryDaDev (hrvyy#9677) - https://github.com/ImmaHarry
-
-LukaHietala (Pix.#0001) - https://github.com/LukaHietala
-
-Freebiell - https://github.com/FreebieII
