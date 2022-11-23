@@ -11,6 +11,7 @@ Patch :
 Amélioration future : 
 -  Le contenu généré à été flagué par l'algorithme de Tik tok qui à banni le compte. Expérimenter les limites de l'algorithme. 
 Rendre le contenu "Tik tok approuved". 
+-  Ajouter une fonctionnalité de choix de langue pour cibler le contenu en français pour viser la niche de la communauté française.
 
 https://user-images.githubusercontent.com/6053155/170525726-2db23ae0-97b8-4bd1-8c95-00da60ce099f.mp4
 
